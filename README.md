@@ -1,23 +1,22 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Kanishka Parmar</h1>
-<h3 align="center">A passionate and tech enthusiast</h3>
+<h3 align="center">Code enthusiast and Tech Passionate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka-parmar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanishka-parmar" alt="kanishka-parmar" /></a> </p>
-
-- 🌱 I’m currently learning **JavaScript**
-
-- 👯 I’m looking to collaborate on **various projects where i can show my skills.**
+<h2>About Me:</h2>
+<p>Hello I am currently pussuing B-tech degree and am in my third year of the program. I'm passionate about open source development, web development, data structures & algorithms, competitive programming.I have a keen interest in full-stack and software development. I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on GitHub and collaborate with others in the open source community. I have participated in various open source events and successfully contributed to them and looking forward for more such opportunity to enrich my skills. </p>
+- 🌱 I’m currently learning **JavaScript** **MERN STACK** **DSA**
 
 - 💬 Ask me about **C,C++,HTML,CSS, MongoDB,MySQL**
 
 - 📫 How to reach me **kanishkaparmar2004@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Profiles</h3>
 <p align="left">
-<a href="https://linkedin.com/in/kanishka parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka parmar" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@kanishka_parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kanishka_parmar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kanishka-parmar-34a42525b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka parmar" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kanishka_06_29" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="kanishka_06_29" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/profile/kanishka_parmar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@kanishka_parmar" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/parmarkani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="parmarkani" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
