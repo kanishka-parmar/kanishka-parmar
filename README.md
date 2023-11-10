@@ -12,7 +12,7 @@
 - 💬 Ask me about **C,C++,HTML,CSS, MongoDB,MySQL**
 
 - 📫 How to reach me **kanishkaparmar2004@gmail.com**
-<br><br>
+<br><br><br>
 <h3 align="left">Profiles</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kanishka-parmar-4a8b56223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kanishka parmar" height="30" width="40" /></a>
