@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka-parmar" /> </p>
 <h2>About Me:</h2>
 <p>Hello I am currently pussuing B-tech degree and am in my third year of the program. I'm passionate about open source development, web development, data structures & algorithms, competitive programming.I have a keen interest in full-stack and software development. I'm always looking for new challenges and opportunities to learn and grow. I'm excited to share my work on GitHub and collaborate with others in the open source community. I have participated in various open source events and successfully contributed to them and looking forward for more such opportunity to enrich my skills. </p>
-- 🌱 I’m currently learning
-**JavaScript** 
+- 🌱 I’m currently learning **JavaScript** 
+
 - 💬 Ask me about **C,C++,HTML,CSS, MongoDB,MySQL**
 - 📫 How to reach me **kanishkaparmar2004@gmail.com**
 <br><br><br>
