@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h1 align="center">Hi 👋, I'm Kanishka Parmar</h1>
+<h1 align="center">Hi 👋 I'm Kanishka Parmar</h1>
 <h3 align="center">Code enthusiast and Tech Passionate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanishka-parmar&label=Profile%20views&color=0e75b6&style=flat" alt="kanishka-parmar" /> </p>
